@@ -7,6 +7,8 @@
 - 👯 I’m open to new opportunities
 - 💬 Ask me about anything [here](mailto:patelrutvik1702@gmail.com)
 
+<img width="1287" alt="Cover" src="https://user-images.githubusercontent.com/19266929/91126795-d2789700-e672-11ea-9fb0-b8fcc9a29b1c.png">
+
 <!--
 **Rutvik17/Rutvik17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
