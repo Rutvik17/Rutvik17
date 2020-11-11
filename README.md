@@ -2,8 +2,8 @@
 
 #### Front End Developer.
 
-- 🔭 I’m currently working at [Mitel](https://www.mitel.com/)
-- 🌱 I’m currently using Angular & React Native
+- 🔭 I’m a Front End Development consultant
+- 🌱 I’m proficient in Angular, React & React Native
 - 👯 I’m open to new opportunities
 - 💬 Ask me about anything [here](mailto:patelrutvik1702@gmail.com)
 
